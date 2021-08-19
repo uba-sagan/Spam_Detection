@@ -9,7 +9,7 @@ NLP IS  APPLIED  :
                 
 ML Algorithms for Accuracy level Comparisons.
 
-Results : Spam Detected for both English & German Languages.
+Results : Spam Detected for both English & German Languages with greater accuracy.
 
                 
  
